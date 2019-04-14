@@ -1,0 +1,9 @@
+[submodule "RadialSliderGem"]
+	path = RadialSliderGem
+	url = https://github.com/GedMarc/JWebMP-RadialSliderGemPlugin.git
+[submodule "WavesEffects"]
+	path = WavesEffects
+	url = https://github.com/GedMarc/JWebMP-WavesEffect.git
+[submodule "VerticalTimelineGem"]
+	path = VerticalTimelineGem
+	url = https://github.com/GedMarc/JWebMP-VerticalTimelineGemPlugin.git
